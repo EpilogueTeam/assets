@@ -1,2 +1,3 @@
-# assets
-All assets used for "Epilogue"
+# Style guidlines
+
+make it look good! 🔧💪🏽🤩

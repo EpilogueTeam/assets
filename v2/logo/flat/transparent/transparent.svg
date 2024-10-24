@@ -1,0 +1,35 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2262_389)">
+<path d="M8 20H35C35.5523 20 36 20.4477 36 21V29C36 29.5523 35.5523 30 35 30H8V20Z" fill="white"/>
+<mask id="path-2-outside-1_2262_389" maskUnits="userSpaceOnUse" x="17" y="18" width="3" height="3" fill="black">
+<rect fill="white" x="17" y="18" width="3" height="3"/>
+<path d="M18 18H20V20C18.8954 20 18 19.1046 18 18Z"/>
+</mask>
+<path d="M18 18H20H18ZM20 21C18.3431 21 17 19.6569 17 18H19C19 18.5523 19.4477 19 20 19V21ZM20 21C18.3431 21 17 19.6569 17 18H19C19 18.5523 19.4477 19 20 19V21ZM20 18V20V18Z" fill="white" mask="url(#path-2-outside-1_2262_389)"/>
+<mask id="path-4-outside-2_2262_389" maskUnits="userSpaceOnUse" x="17" y="29" width="3" height="3" fill="black">
+<rect fill="white" x="17" y="29" width="3" height="3"/>
+<path d="M18 32H20V30C18.8954 30 18 30.8954 18 32Z"/>
+</mask>
+<path d="M18 32H20H18ZM20 29C18.3431 29 17 30.3431 17 32H19C19 31.4477 19.4477 31 20 31V29ZM20 29C18.3431 29 17 30.3431 17 32H19C19 31.4477 19.4477 31 20 31V29ZM20 32V30V32Z" fill="white" mask="url(#path-4-outside-2_2262_389)"/>
+<path d="M8 10C8 4.47715 12.4772 0 18 0V33H8V10Z" fill="white"/>
+<mask id="path-7-outside-3_2262_389" maskUnits="userSpaceOnUse" x="17" y="9" width="3" height="3" fill="black">
+<rect fill="white" x="17" y="9" width="3" height="3"/>
+<path d="M20 10L20 12L18 12C18 10.8954 18.8954 10 20 10Z"/>
+</mask>
+<path d="M20 10L20 12L20 10ZM17 12C17 10.3431 18.3431 9 20 9L20 11C19.4477 11 19 11.4477 19 12L17 12ZM17 12C17 10.3431 18.3431 9 20 9L20 11C19.4477 11 19 11.4477 19 12L17 12ZM20 12L18 12L20 12Z" fill="white" mask="url(#path-7-outside-3_2262_389)"/>
+<rect width="10" height="3" transform="translate(21) rotate(90)" fill="white"/>
+<rect width="10" height="3" transform="translate(8 37)" fill="white"/>
+<path d="M8 40H41C41.5523 40 42 40.4477 42 41V49C42 49.5523 41.5523 50 41 50H18C12.4772 50 8 45.5228 8 40Z" fill="white"/>
+<mask id="path-10-outside-4_2262_389" maskUnits="userSpaceOnUse" x="17" y="38" width="3" height="3" fill="black">
+<rect fill="white" x="17" y="38" width="3" height="3"/>
+<path d="M18 38H20V40C18.8954 40 18 39.1046 18 38Z"/>
+</mask>
+<path d="M18 38H20H18ZM20 41C18.3431 41 17 39.6569 17 38H19C19 38.5523 19.4477 39 20 39V41ZM20 41C18.3431 41 17 39.6569 17 38H19C19 38.5523 19.4477 39 20 39V41ZM20 38V40V38Z" fill="white" mask="url(#path-10-outside-4_2262_389)"/>
+<path d="M25 0H41C41.5523 0 42 0.447715 42 1V9C42 9.55228 41.5523 10 41 10H25V0Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_2262_389">
+<rect width="34" height="50" fill="white" transform="translate(8)"/>
+</clipPath>
+</defs>
+</svg>
