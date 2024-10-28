@@ -1,3 +1,3 @@
-# Style guidlines
+# Style guidelines
 
 make it look good! 🔧💪🏽🤩
